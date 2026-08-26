@@ -1,0 +1,53 @@
+{
+  "history": [
+    {
+      "timestamp": 1787747815958,
+      "overallScore": 99,
+      "perRule": {
+        "spelling": 98,
+        "hyphenation": 100
+      }
+    },
+    {
+      "timestamp": 1787747820521,
+      "overallScore": 99,
+      "perRule": {
+        "spelling": 98,
+        "hyphenation": 100
+      }
+    },
+    {
+      "timestamp": 1787747841091,
+      "overallScore": 99.5,
+      "perRule": {
+        "spelling": 99,
+        "hyphenation": 100
+      }
+    },
+    {
+      "timestamp": 1787747841936,
+      "overallScore": 99.7,
+      "perRule": {
+        "spelling": 99.3,
+        "hyphenation": 100
+      }
+    },
+    {
+      "timestamp": 1787747842619,
+      "overallScore": 99.9,
+      "perRule": {
+        "spelling": 99.7,
+        "hyphenation": 100
+      }
+    },
+    {
+      "timestamp": 1787747844719,
+      "overallScore": 100,
+      "perRule": {
+        "spelling": 100,
+        "hyphenation": 100
+      }
+    }
+  ],
+  "dismissedSuggestions": []
+}

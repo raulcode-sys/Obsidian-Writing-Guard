@@ -1,0 +1,10 @@
+{
+	"id": "writing-style-guard",
+	"name": "Writing Style Guard",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Enforce spelling, punctuation, capitalization, and custom style consistency across your vault, with auto-correct and a compliance dashboard.",
+	"author": "Raul Buta",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
