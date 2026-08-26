@@ -62,6 +62,4 @@ src/views/                Scan results panel + dashboard
 src/views/modals/         Preview and rule-wizard modals
 ```
 
-## License
 
-MIT
