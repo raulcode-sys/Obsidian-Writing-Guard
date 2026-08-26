@@ -21,7 +21,7 @@ An Obsidian plugin that finds and fixes writing-style inconsistencies across you
 
 ## Usage
 
-- Ribbon icon or the **"Scan vault"** command runs a scan and opens the results panel.
+- Shield icon or the **"Scan vault"** command runs a scan and opens the results panel.
 - Each inconsistency group can be expanded to see every location, previewed, or fixed all at once.
 - Open the **dashboard** (command palette → "Open style compliance dashboard") for compliance scores and trends.
 - Open the **rule wizard** (button in the scan results panel) for pattern-based rule suggestions.
