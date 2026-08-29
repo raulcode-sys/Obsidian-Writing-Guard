@@ -1,5 +1,10 @@
 # Writing Style Guard
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-3178C6.svg)](https://www.typescriptlang.org/)
+[![Obsidian Plugin](https://img.shields.io/badge/Obsidian-Plugin-7C3AED.svg)](https://obsidian.md/)
+[![GitHub stars](https://img.shields.io/github/stars/butaraul/Obsidian-Writing-Guard.svg?style=social)](https://github.com/butaraul/Obsidian-Writing-Guard/stargazers)
+
 An Obsidian plugin that finds and fixes writing-style inconsistencies across your entire vault: mixed US/UK spelling, inconsistent Oxford comma usage, inconsistent heading capitalization, inconsistent hyphenation/term variants ("e-mail" vs "email"), and any custom regex pattern you define.
 
 ## Features
